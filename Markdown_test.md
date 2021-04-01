@@ -21,6 +21,7 @@
 
 这是一个[惊喜](https://www.baidu.com "快点开看看")  
 惊喜[2](https://www.bilibili.com/video/BV1GJ411x7h7?from=search&seid=16871294989244760006 "谨防上当")
+html_test[Click here](test.html "我的html测试")
 
 ### 其他链接格式
 
@@ -32,7 +33,7 @@ ID区分大小写
 
 ## 图片
 
-![picture](C:/Users/Lenovo/Desktop/宣传部/照片/校训.jpg)  
+![picture](img/校训.jpg)  
 ![picture2][2]  
 
 ## 代码
@@ -103,5 +104,5 @@ DNA
 🐂🍺
 
 [1]: https://www.zhihu.com/
-[2]: C:/Users/Lenovo/Desktop/宣传部/照片/屋檐一角.jpg
+[2]: img/屋檐一角.jpg
 [点此回到Title](#3)
